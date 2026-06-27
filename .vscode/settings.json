@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.env": "plaintext",
+    ".env.*": "plaintext"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false
+  }
+}

@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data — raw broker uploads & scratch. NEVER commit files with investor PII.
+data/
+*.xlsx
+!tests/fixtures/**/*.xlsx
